@@ -9,7 +9,7 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-15 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S02 | Initial version; created with the review records of the baseline (autonomous, not independent) | pending |
+| 2026-11-15 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S02 | Initial version; created with the review records of the baseline (autonomous, not independent) | [a86c2ef] |
 
 ---
 
@@ -58,3 +58,4 @@ No view, design or test-plan artifact exists yet (the scope excludes them), so t
 [RC-003]: ./reviews/rc-003-project-plan.md
 [RC-004]: ./reviews/rc-004-milestone-001.md
 [RC-005]: ./reviews/rc-005-wiki.md
+[a86c2ef]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/017-followers/commit/a86c2ef435fbe2f3f21d5178625603b669cc2e16

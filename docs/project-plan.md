@@ -11,7 +11,7 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-15 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S02 | Initial version; accepted with the Go verdict of the review record (autonomous, not independent) | pending |
+| 2026-11-15 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S02 | Initial version; accepted with the Go verdict of the review record (autonomous, not independent) | [a86c2ef] |
 
 ---
 
@@ -76,3 +76,4 @@ A No-Go on [MIL-001] moves the end date: S01 decides the new date; no later gate
 [SA-001]: ./stakeholder-analysis.md
 [MIL-001]: ./milestones/mil-001-baseline.md
 [milestone-521]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/017-followers/milestone/521
+[a86c2ef]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/017-followers/commit/a86c2ef435fbe2f3f21d5178625603b669cc2e16

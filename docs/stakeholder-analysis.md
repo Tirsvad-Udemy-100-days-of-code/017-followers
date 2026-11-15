@@ -11,7 +11,7 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-15 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S02 | Initial version; accepted with the Go verdict of the review record (autonomous, not independent) | pending |
+| 2026-11-15 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S02 | Initial version; accepted with the Go verdict of the review record (autonomous, not independent) | [a86c2ef] |
 
 ---
 
@@ -79,3 +79,4 @@ Accepted on the `Go` verdict of the review record of this document, by the AI as
 
 [BC-001]: ./business-case.md
 [MIL-001]: ./milestones/mil-001-baseline.md
+[a86c2ef]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/017-followers/commit/a86c2ef435fbe2f3f21d5178625603b669cc2e16
